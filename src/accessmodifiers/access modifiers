@@ -1,0 +1,24 @@
+Access modifiers:
+ provides accessibility for fields,methods or constructors
+
+
+4 types of access modifiers
+    1. private
+        - within a class only
+        - not accessible out the class,package
+        - class can never be private
+    2. default
+        - can have access out the class with same package
+        - not accessible outside the package
+        - can have access in sub class
+        - no need to specify default keyword
+    3. protected
+        -
+    4. public
+        - access everywhere throughout the
+
+
+
+    HW
+        why we can't declare class as private?
+        as like vehicle create student class to practice.

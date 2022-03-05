@@ -1,0 +1,21 @@
+Object
+Throwable
+        Exception-
+          can be handled(checked exception)
+            -sql exception
+            -IOException
+              -FileNotFoundException
+            -RunTime Exception (unchecked exception)
+                -ArithmeticException
+                -NullPointerException
+                -NumberFormatException
+                -SecurityException
+                -ClassCastException
+                -IndexOutOfBoundException
+                                    -ArrayIndexOutOfBoundException
+                                    -StringIndexOutOfBoundException
+
+        Error-can not be handled
+            -OutOfMemory error (cannot generated)
+            -StackOverflow Error
+            -Unknown Error

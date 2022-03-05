@@ -1,0 +1,4 @@
+polymorphism
+    -Types of polymorphism:
+        1. Compile time polymorphism/ static polymorphism - achieved by overloading
+        2. Runtime polymorphism/ method dispatch - achieved by overriding

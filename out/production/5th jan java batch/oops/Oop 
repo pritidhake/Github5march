@@ -1,0 +1,34 @@
+1. Class
+        -collection of objects
+        -logical entity
+        -Blueprint
+        -does not consume any space
+        -contains fields, method, constructors, blocks, nested classes &interface
+        - eg. Cat-
+                state -(color,name,breed) & behavior (running, eating,meow)
+
+2. Object
+        -real world entity
+        -Instance of class
+        -consume space
+        -has state/property & behavior
+        -it can be logical or physical
+        -eg. Car,mobile,laptop
+3. inheritance
+        -when an object acquires all the the properties & behaviors of a parent object
+        -provides code re-usability
+        - used to run polymorphism
+        - represents IS-A relationship
+           eg. Dog is a animal
+               Sparrow is a bird
+               Cat is a animal
+4. polymorphism
+        - one task performed in different ways
+        - eg. cat sound,dog sound,lion sound
+5. Abstraction
+        -Hiding of data and showing functionalities
+6. Encapsulation
+        Binding/wrapping of data into single unit
+Explain PIE ?
+    polymorphism, inheritance, Encapsulation
+Explain IS-A relationship (inheritance)

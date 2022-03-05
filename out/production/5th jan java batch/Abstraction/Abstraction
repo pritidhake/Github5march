@@ -1,0 +1,17 @@
+Abstraction :
+    -Hiding of internal data and showing functionalities.
+    -we can not create object of abstract class (parent class)
+    -2
+    Notes:
+        1. abstract class can have abstract methods or non abstract methods
+        2. if class contain abstract method then class must be abstract
+        3. class have static methods
+        4. class also have finaldemo methods
+        5. if any class extends abstract class then we have to implement abstract method or declare that class as abstract
+        6. class does not instantiated (cannot create
+
+        // diamond problem
+        //
+        // difference between abstract and interface
+        abstract                                                                                                        interface
+    1. we can have both method abstract and non-abstract

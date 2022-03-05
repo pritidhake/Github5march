@@ -1,0 +1,20 @@
+Types of inheritance-
+    1. Single inheritance
+            single parent and single child
+    2. Multilevel
+            properties of parents and child1 both are accessible by child2
+    3. Hierarchical inheritance
+            single parent and multiple children
+    4. Multiple inheritance
+            Ambiguity problem
+            Java does not support multiple n hybrid inheritance
+    5. Hybrid inheritance
+
+Java does not support multiple n hybrid inheritance
+
+class Animal{parent or super
+void eat()
+}
+class Dog extends Animal{//child or sub-class
+    dog.eat()
+}
